@@ -1,0 +1,26 @@
+{
+  "name": "gl-core",
+  "title": "Galizan Core",
+  "description": "A translation module to add the option to display the core interface of Foundry VTT in Galizan.",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "coegho",
+      "url": "https://github.com/coegho"
+    }
+  ],
+  "minimumCoreVersion": "0.9",
+  "compatibleCoreVersion": "9",
+  "coreTranslation": true,
+  "languages": [
+    {
+      "lang": "gl",
+      "name": "Galizan",
+      "path": "lang/gl/foundry.json"
+    }
+  ],
+  "url": "https://github.com/coegho/gl-core",
+  "manifest": "https://github.com/coegho/gl-core/-/raw/main/gl/module.json",
+  "download": "https://github.com/coegho/gl-core/archive/main.zip",
+  "license": "LICENSE.txt"
+}
